@@ -11,5 +11,4 @@ I developed this project in power bi ,creating visuals,slicers to analyse the da
 ## Dashboard:
 <a href= "https://github.com/Brindha-1802/netflix-dashboard/blob/main/netflix%20dashboard.png">View Dashboard </a>
 
-## project insights:
-more than 80% of people like to watch movie  than the tv shows
+
