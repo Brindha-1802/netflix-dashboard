@@ -1,4 +1,4 @@
-# netflix-dashboard(interactive dashboard creation by usig  power BI)
+# NETFLIX DASHBOARD(interactive dashboard creation by usig  power BI)
 
 I developed this project in power bi ,creating visuals,slicers to analyse the data.the process ivolved data collection,data preprocessing,data visualization.
 
@@ -9,3 +9,7 @@ I developed this project in power bi ,creating visuals,slicers to analyse the da
 4.create visuals and add the slicers 
 
 ## Dashboard:
+<a href= "https://github.com/Brindha-1802/netflix-dashboard/blob/main/netflix%20dashboard.png">View Dashboard </a>
+
+## project insights:
+more than 80% of people like to watch movie  than the tv shows
